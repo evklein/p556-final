@@ -1,0 +1,113 @@
+,Model,Parameters,mean_train_score,std_train_score,mean_test_score,std_test_score
+0,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 100",0.8241833300052243,0.0011235261502228987,0.7661151378222826,0.002293972814025644
+1,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 100",0.8069768165863662,0.0010380667687527143,0.7660202416317267,0.0025707825783433725
+2,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 10",0.8176426919483878,0.0019080108076231898,0.7657698350446961,0.0011004400938103187
+3,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 5",0.8227766171874732,0.0009935601228827507,0.765438260925006,0.0008990174510562141
+4,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 10",0.8367543246169945,0.0024237372036809124,0.7650205481918015,0.0011274046361081894
+5,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 100",0.853934031980705,0.0009064834066533657,0.7648680926669754,0.0019333249550462501
+6,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 5",0.8454521143139274,0.003618430098448822,0.7647738331254477,0.0010230537117845505
+7,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 1",0.8266473879634643,0.005971192521189117,0.7640409279826293,0.0017268150964149568
+8,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 10",0.7818724345340277,0.0011686052824242637,0.7636047284228079,0.00112638938891175
+9,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 10",0.8828208930693812,0.00609833182208296,0.7634816318113641,0.0013359249157092953
+10,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 5",0.7824315125747242,0.0007662404045180012,0.7633159527731163,0.0011073447627973083
+11,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 100",0.7783572108446988,0.001075511380416132,0.7630888444094567,0.0017329264277042122
+12,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 1",0.8525092607698221,0.006269430418134134,0.7630635256081865,0.0009595201272640845
+13,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 1",0.78378982154089,0.0008409410451867875,0.7629836741647473,0.0002159965689562508
+14,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 5",0.8927753465403815,0.002036795781533041,0.7627504946742075,0.0022775524351369486
+15,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 100",0.7823953736101137,0.0025091430459430494,0.7624449835045697,0.001914996053814362
+16,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 0",0.7855723417569389,0.0008956884698607491,0.762336087297515,0.0009756070084348948
+17,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 0",0.8337547506333008,0.00530519746422476,0.7618554558976478,0.0017283835707578828
+18,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 100",0.7980445560972375,0.0009914662371451922,0.7612691772881433,0.0015392929219926609
+19,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 10",0.7799941463879131,0.0036709045175708534,0.7606441862429771,0.000474852951149972
+20,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 0",0.858576245778537,0.013650225667514925,0.760279980207688,0.001770147452346914
+21,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 1",0.8871434545224192,0.011967068267804297,0.7602132322536734,0.000993437621076816
+22,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 5",0.7765635490097348,0.0013294451988042355,0.7592824847724406,0.001974378936559541
+23,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 5",0.7679952735551874,0.0010773721076113108,0.7591098370365517,0.0009435073311812963
+24,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 10",0.7677057191845839,0.0009510231075699284,0.7590604278535295,0.0008596126509601057
+25,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 1",0.7790974858523226,0.0061649806463932935,0.7587775511223742,0.0003661461101751321
+26,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 1",0.7680009899589718,0.0011802356313926825,0.7586926466686567,0.000591249756512294
+27,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 0",0.7681574776377967,0.0011197079247584202,0.75849847497718,0.0005814759481184564
+28,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 0",0.897864181372967,0.007406250421743905,0.7579859104101141,0.0012742506550889206
+29,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.1, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 100",0.7658750699979949,0.0010966463234910607,0.7577589450315642,0.0011695286242182933
+30,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 10",0.7872193201776513,0.003138731029953582,0.7576528093764433,0.0007880932439577283
+31,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 0",0.7732453049211108,0.0014668907402869348,0.7570728471602481,0.0005198824901114165
+32,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 5",0.7891265539371228,0.00734176810422,0.7566607917320557,0.0011602723061132775
+33,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 100",0.8198069951922603,0.005462600861190788,0.7566175282995294,0.0012441519766696408
+34,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 100",0.7814440631480357,0.003262774010095194,0.7561283804143013,0.0010528093335892517
+35,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 1",0.786049727681832,0.003423837267502573,0.7558121745846768,0.0004971889086196714
+36,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 0",0.7829343810292752,0.0007571270558309135,0.7552456023499688,0.002002108722896961
+37,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 100",0.8251910173042792,0.005738647102551501,0.7540307899000093,0.0016603622427653075
+38,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 100",0.7882517392040773,0.003355928138415078,0.7520881326233191,0.0018389457207843125
+39,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 10",0.7715781697746912,0.003669219521311562,0.7513042261530645,0.0009882207900240763
+40,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 100",0.8613304680119307,0.0037319015830449345,0.7505339356225179,0.0010020690172945932
+41,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 10",0.8221309715779334,0.003993031545937502,0.7503666451316479,0.0024564959108820017
+42,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 5",0.8127475057896655,0.005586102848914222,0.7494529389706321,0.0005094008582768413
+43,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 5",0.7734216406552331,0.001751359808688587,0.749095964642091,0.004333226548493698
+44,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 0",0.7676640825990618,0.003360002805608457,0.748924954972841,0.0022607293692507974
+45,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 1",0.7691186202830735,0.0034610717473059897,0.7481391369899715,0.002847240099584631
+46,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 10",0.8287600255731687,0.008000201013465985,0.7467706165908683,0.0003361268270233561
+47,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 5",0.8228711261701775,0.001965365934951339,0.7459744932432376,0.002441761184521602
+48,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 1",0.812676593785716,0.005100424032161807,0.7456862905776712,0.0013878158010252957
+49,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 10",0.7854331991112279,0.003071546354272629,0.7454221323716318,0.0003967068461458716
+50,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 0",0.7655010461302026,0.0012201934694698376,0.7435614493975988,0.0011715410925060548
+51,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 1",0.7718437758354263,0.001374349030959753,0.7430930160887429,0.001171404713320692
+52,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 5",0.782143386881069,0.005992927324641654,0.7427623285811012,0.0019050450660544073
+53,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 5",0.7810985671579059,0.0011459330132529057,0.7422745854984827,0.0023324066043672034
+54,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 0",0.8044596636647058,0.003384950909743916,0.7420389246422633,0.001215375057022141
+55,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 10",0.779196277995733,0.0011796300228005296,0.7419033497098667,0.0019764353207586023
+56,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 1",0.7848569518986652,0.0011229290203679811,0.7418269805278745,0.002257318520809845
+57,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 0",0.7882392953247935,0.0013599321871820107,0.7410089298396573,0.0018442444010782241
+58,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 100",0.8000693684953465,0.006958443178672109,0.7409017551941961,0.0026609299533401653
+59,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 1",0.8236058320643354,0.004853381635552282,0.7401882172279214,0.001114150878733818
+60,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 10",0.8574309684485425,0.005195629857088426,0.7391817643495848,0.0019002078527187855
+61,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 5",0.7604707420434985,0.0008542549357869515,0.7390095038215474,0.0025982320841527753
+62,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 1",0.7614188785231573,0.0009654667563993214,0.7387444793553547,0.0022698599804264878
+63,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 10",0.759982905289978,0.0009210110440383294,0.7386906553766125,0.002601492958184864
+64,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 0",0.7630528219463999,0.0008693535795306224,0.7382645821892438,0.0023555316446575436
+65,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 0",0.8117393509188653,0.004428311884655246,0.7382149689654264,0.002160379907270749
+66,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 100",0.7644156415970226,0.0005880592468945816,0.7372726344718806,0.0031658759656826205
+0,Random Forest,"rf__n_estimators: 250, rf__max_depth: 10, rf__min_samples_leaf: 2",0.8450865094772283,0.001072888797007408,0.7362920947745217,0.000982424362661957
+67,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 5",0.863789451303388,0.0017871296648941759,0.7357735577089907,0.001174422449857092
+1,Random Forest,"rf__n_estimators: 150, rf__max_depth: 10, rf__min_samples_leaf: 2",0.8448628938118851,0.001108776401942989,0.7356552672758658,0.0010671778774578758
+2,Random Forest,"rf__n_estimators: 250, rf__max_depth: 10, rf__min_samples_leaf: 1",0.8453913492952475,0.0013714116588205004,0.7354382388405903,0.000524299062371031
+68,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 1",0.7500462700336543,0.0008861028248147225,0.7351803646735653,0.00230836646173917
+69,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 10",0.749665279686055,0.0009227512215426081,0.7351559470959602,0.0026496102316548907
+70,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 5",0.7497484025661807,0.0009605077987248524,0.7351549148895852,0.002525210125294114
+71,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 100",0.7528306556021324,0.0009081739833499057,0.7349424484098869,0.003072431118432582
+72,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 0",0.7502560134036872,0.0007660070589629865,0.7348937171015267,0.002524966798305027
+3,Random Forest,"rf__n_estimators: 150, rf__max_depth: 10, rf__min_samples_leaf: 1",0.8450596316686042,0.0011980966600034658,0.73479555938931,0.0003243686567111664
+73,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 100",0.8206186405128575,0.0020492924989743058,0.7343436993070821,0.001645490976200267
+74,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 100",0.7454244457037152,0.0010286217188580735,0.7326447930258603,0.0028637745095653087
+75,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 1",0.8544319212658277,0.0024048454740330538,0.7323654413473161,0.0014888405273746482
+76,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 10",0.7969860134564559,0.0020809615442810986,0.7314487184092248,0.001507509447044562
+4,Random Forest,"rf__n_estimators: 250, rf__max_depth: 20, rf__min_samples_leaf: 2",0.9924147330842478,0.00029898653343626234,0.728425453775874,0.0009627720975815959
+77,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 5",0.7938560981084836,0.0022134363458828155,0.7271622330386597,0.0012801696670123066
+78,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 100",0.8476997935320064,0.006869379766834758,0.7267028568449949,0.002722628710375134
+5,Random Forest,"rf__n_estimators: 150, rf__max_depth: 20, rf__min_samples_leaf: 2",0.991969097811801,0.000343610541055626,0.7265142876649664,0.0012897753388565643
+6,Random Forest,"rf__n_estimators: 250, rf__max_depth: 20, rf__min_samples_leaf: 1",0.9934155910178667,0.00021135879461972747,0.7251319838144029,0.0007263378839933254
+79,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 10",0.7297953963288822,0.0010658935694365468,0.7239312303492537,0.0026879937815799783
+80,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 5",0.7297008766483867,0.0010605677390325662,0.7238857104655816,0.0025747946412027233
+81,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 0",0.7297497321554917,0.0010331469210056105,0.723880282249851,0.002584829323849934
+7,Random Forest,"rf__n_estimators: 150, rf__max_depth: 20, rf__min_samples_leaf: 1",0.9931497029007383,0.0004930988743513352,0.7238603274775649,3.0081402164764193e-05
+82,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 1",0.7297166651529031,0.0011475258641554162,0.7238521079211363,0.002587550900483003
+83,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 10",0.8151204806675532,0.0037734217342802905,0.7237754099777606,0.003938213892543857
+84,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 10, hbgb__l2_regularization: 100",0.7282987109136739,0.0007790962302792869,0.7230219348092101,0.0030186206159006027
+85,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 1",0.7802175252667839,0.01299771765264296,0.7223743422016998,0.001670796025656334
+86,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 31, hbgb__l2_regularization: 0",0.7660525132144125,0.01033136019874271,0.7221373219432522,0.0025346634873201746
+87,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.5, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 0",0.8493984989034941,0.0025045967996075885,0.7200614651656211,0.0017030658756155158
+88,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 5",0.8115013592488062,0.0007106076916471034,0.7183353849296084,0.0025141011474682532
+89,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 1",0.7201375683379067,0.0008589491629022447,0.7166212763045428,0.0023553049316696354
+90,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 10",0.7199020005002851,0.0005184964552657651,0.7165059055856086,0.0025555621148667033
+91,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 5",0.71988760349137,0.0007278143965566524,0.7164805695635041,0.002270253544880438
+92,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 0",0.7199750477572353,0.0005043104319930087,0.7164804015299081,0.002515638082070563
+93,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 0.01, hbgb__max_leaf_nodes: 5, hbgb__l2_regularization: 100",0.7180545612611081,0.00028678503279425913,0.7145573248637387,0.0024247292993608096
+94,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 0",0.7750934333850452,0.004156959654888115,0.7144434184375696,0.002651741613813828
+95,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 50, hbgb__l2_regularization: 1",0.794847243621979,0.0030789287916965194,0.7120006670871138,0.0038765933293403304
+96,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 10",0.8475491206244593,0.0018092434635744161,0.7052793352509118,0.0009774421960538071
+97,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 5",0.8480439529505598,0.0035854560443891177,0.7012037654412646,0.0019308481435068173
+98,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 0",0.7867990391918304,0.0036328460868874533,0.6946522357285331,0.002797588188341495
+99,Histogram-Based Gradient Boosting,"hbgb__learning_rate: 1.0, hbgb__max_leaf_nodes: 100, hbgb__l2_regularization: 1",0.8223092055176623,0.008435574885860712,0.6868297374686514,0.004838727057307489
+0,Bagging,"bag__estimator: LogisticRegression(C=10.0, max_iter=1000, random_state=42), bag__n_estimators: 5",0.6298414006659357,0.0013208533374441636,0.6293270226928265,0.0025564445282231507
+0,Voting,vote__voting: soft,0.6297734918711316,0.0012980838509248503,0.6292749782003023,0.0027204203994533644
+1,Bagging,"bag__estimator: LogisticRegression(C=10.0, max_iter=1000, random_state=42), bag__n_estimators: 10",0.6298626052533222,0.0012307228006894755,0.6292669449419909,0.0027636156204970588
+2,Bagging,"bag__estimator: LogisticRegression(C=10.0, max_iter=1000, random_state=42), bag__n_estimators: 25",0.6298304769166675,0.0013837692367666308,0.6292377582369526,0.0024930336650639275
